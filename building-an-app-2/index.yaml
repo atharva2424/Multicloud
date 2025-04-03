@@ -1,0 +1,6 @@
+indexes:
+- kind: visit
+  properties:
+  - name: user_id
+  - name: timestamp
+    direction: desc
